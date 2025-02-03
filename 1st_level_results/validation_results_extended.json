@@ -1,0 +1,8 @@
+{
+    "pre_train_accuracy": 0.0,
+    "post_train_accuracy": 0.0,
+    "statistical_test": {
+        "t_statistic": NaN,
+        "p_value": NaN
+    }
+}
